@@ -6,14 +6,14 @@
 丰富bilibili网页版的倍速功能
 - 丰富速度菜单选项
     <details>
-        <summary> 示例  </summary>
+    <summary> 示例  </summary>
 
-        ![p1](/pictures/p1.png)
-
+    ![p1](/pictures/p1.png)
     </details>
+    
     想要更改菜单设置，可以自行更改脚本中的`rates`数组。
 
 - 支持键盘调速
-    c键加速0.1x，x键减速0.1x。
+    `c`键加速`0.1x`，`x`键减速`0.1x`。
 - 记忆上次的视频播放速度
 
